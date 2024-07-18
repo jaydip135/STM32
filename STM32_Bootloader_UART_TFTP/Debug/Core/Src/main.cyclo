@@ -1,0 +1,10 @@
+../Core/Src/main.c:87:5:main	3
+../Core/Src/main.c:171:6:SystemClock_Config	4
+../Core/Src/main.c:237:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:270:13:MX_GPIO_Init	1
+../Core/Src/main.c:316:6:tftp_update	3
+../Core/Src/main.c:349:12:UART_Write_Loop	4
+../Core/Src/main.c:386:26:write_data_to_flash_app	5
+../Core/Src/main.c:431:13:Firmware_Update	7
+../Core/Src/main.c:500:13:goto_application	2
+../Core/Src/main.c:529:6:Error_Handler	1

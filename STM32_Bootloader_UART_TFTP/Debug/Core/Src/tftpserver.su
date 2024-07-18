@@ -1,0 +1,10 @@
+../Core/Src/tftpserver.c:59:20:IAP_tftp_decode_op	16	static
+../Core/Src/tftpserver.c:69:14:IAP_tftp_extract_block	24	static
+../Core/Src/tftpserver.c:81:13:IAP_tftp_set_opcode	16	static
+../Core/Src/tftpserver.c:93:13:IAP_tftp_set_block	32	static
+../Core/Src/tftpserver.c:107:14:IAP_tftp_send_ack_packet	40	static
+../Core/Src/tftpserver.c:160:13:IAP_wrq_recv_callback	592	static
+../Core/Src/tftpserver.c:245:12:IAP_tftp_process_write	32	static
+../Core/Src/tftpserver.c:298:13:IAP_tftp_recv_callback	128	static
+../Core/Src/tftpserver.c:377:13:IAP_tftp_cleanup_wr	16	static
+../Core/Src/tftpserver.c:400:6:IAP_tftpd_init	16	static
