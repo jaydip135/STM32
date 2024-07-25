@@ -1,0 +1,14 @@
+../Core/Src/W25Qxx.c:17:6:W25Q_Delay	16	static
+../Core/Src/W25Qxx.c:22:6:csLOW	8	static
+../Core/Src/W25Qxx.c:27:6:csHIGH	8	static
+../Core/Src/W25Qxx.c:32:6:SPI_Write	16	static
+../Core/Src/W25Qxx.c:37:6:SPI_Read	16	static
+../Core/Src/W25Qxx.c:44:6:W25Q_Reset	16	static
+../Core/Src/W25Qxx.c:55:10:W25Q_ReadID	16	static
+../Core/Src/W25Qxx.c:66:6:W25Q_Read	40	static
+../Core/Src/W25Qxx.c:101:6:W25Q_FastRead	40	static
+../Core/Src/W25Qxx.c:138:6:write_enable	16	static
+../Core/Src/W25Qxx.c:147:6:write_disable	16	static
+../Core/Src/W25Qxx.c:156:10:bytestowrite	16	static
+../Core/Src/W25Qxx.c:162:6:W25Q_Erase_Sector	32	static
+../Core/Src/W25Qxx.c:199:6:W25Q_Write_Page	344	static
