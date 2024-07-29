@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:26:5:MQTTSerialize_connectLength	32	static
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:57:5:MQTTSerialize_connect	48	static
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:131:5:MQTTDeserialize_connack	48	static
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:168:5:MQTTSerialize_zero	40	static
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:198:5:MQTTSerialize_disconnect	16	static
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTConnectClient.c:210:5:MQTTSerialize_pingreq	16	static

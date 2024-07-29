@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTSubscribeClient.c:27:5:MQTTSerialize_subscribeLength	2
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTSubscribeClient.c:49:5:MQTTSerialize_subscribe	3
+../Middlewares/Third_Party/MQTT/MQTTPacket/MQTTSubscribeClient.c:99:5:MQTTDeserialize_suback	5
