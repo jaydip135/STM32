@@ -1,0 +1,9 @@
+../Core/Src/tcpClientRAW.c:118:6:HAL_TIM_PeriodElapsedCallback	128	static
+../Core/Src/tcpClientRAW.c:153:6:tcp_client_init	16	static
+../Core/Src/tcpClientRAW.c:170:14:tcp_client_connected	32	static
+../Core/Src/tcpClientRAW.c:219:14:tcp_client_recv	32	static
+../Core/Src/tcpClientRAW.c:299:14:tcp_client_poll	24	static
+../Core/Src/tcpClientRAW.c:337:14:tcp_client_sent	32	static
+../Core/Src/tcpClientRAW.c:367:13:tcp_client_send	32	static
+../Core/Src/tcpClientRAW.c:422:13:tcp_client_connection_close	16	static
+../Core/Src/tcpClientRAW.c:444:13:tcp_client_handle	32	static
