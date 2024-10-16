@@ -1,0 +1,9 @@
+../Core/Src/main.c:72:6:Flash_Erase	2
+../Core/Src/main.c:89:6:Flash_Write_Block	3
+../Core/Src/main.c:110:5:main	2
+../Core/Src/main.c:164:6:SystemClock_Config	3
+../Core/Src/main.c:221:13:MX_CAN1_Init	2
+../Core/Src/main.c:270:13:MX_GPIO_Init	1
+../Core/Src/main.c:302:6:jump_to_application	1
+../Core/Src/main.c:315:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/main.c:333:6:Error_Handler	1
